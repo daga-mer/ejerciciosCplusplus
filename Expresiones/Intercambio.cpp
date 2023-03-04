@@ -35,7 +35,7 @@ int main(){
 	
 	int a,b,c,d;
 		
-	cout<<"ingrese la nota del preimer alumno: ";
+	cout<<"ingrese la nota del primer alumno: ";
 	cin>>a;
 	
 	cout<<"ingrese la nota del segundo alumno: ";

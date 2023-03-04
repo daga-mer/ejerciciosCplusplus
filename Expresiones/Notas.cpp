@@ -15,7 +15,7 @@ using namespace std;//siempre necesario
 	cout<<"digite la nota de la teoria: ";
 	cin>>teorica;
 	
-	cout<<"digite la nora de la participacion: ";
+	cout<<"digite la nota de la participacion: ";
 	cin>>participacion;
 	
 	
